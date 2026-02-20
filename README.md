@@ -51,4 +51,4 @@ Contributions are welcome! Please check the [contribution guidelines](CONTRIBUTI
 
 ## 📧 Contact
 
-For questions or suggestions: [GitHub Issues](https://github.com/yourusername/subtitle-studio/issues)
+For questions or suggestions: [GitHub Issues](https://github.com/aliyilmaz/subtitle-studio/issues)
